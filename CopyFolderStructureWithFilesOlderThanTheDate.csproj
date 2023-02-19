@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <PublishSingleFile>true</PublishSingleFile>
+    <ApplicationIcon>copy-two-paper-sheets-interface-symbol_icon-icons.com_73283.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="copy-two-paper-sheets-interface-symbol_icon-icons.com_73283.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="copy-two-paper-sheets-interface-symbol_icon-icons.com_73283.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="copy-two-paper-sheets-interface-symbol_icon-icons.com_73283.png" />
+  </ItemGroup>
+
+</Project>

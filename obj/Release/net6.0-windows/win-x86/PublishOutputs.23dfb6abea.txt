@@ -1,0 +1,2 @@
+C:\Users\MSINote\source\repos\CopyFolderStructureWithFilesOlderThanTheDate\bin\Release\net6.0-windows\publish\win-x86\CopyFolderStructureWithFilesOlderThanTheDate.pdb
+C:\Users\MSINote\source\repos\CopyFolderStructureWithFilesOlderThanTheDate\bin\Release\net6.0-windows\publish\win-x86\CopyFolderStructureWithFilesOlderThanTheDate.exe
